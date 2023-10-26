@@ -37,7 +37,7 @@ var marker3 = new mapboxgl.Marker({
     .setLngLat([103.4538, 43.8803])
     .addTo(map)
 
-var img4 = document.querySelector("#white house")
+var img4 = document.querySelector("#whitehouse")
 var marker4 = new mapboxgl.Marker({
     element: img4
 })
